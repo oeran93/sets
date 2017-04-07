@@ -1,2 +1,3 @@
 # sets
-Creating a class to handle sets using Scala
+
+Learning Scala by creating a class to handle sets
